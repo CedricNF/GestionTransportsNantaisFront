@@ -3,7 +3,8 @@ This is an application geared to the employees of the company running the public
 Each employee can access a list of all driving jobs and maintenances assigned to the entirety of the staff on their welcome page. From there, they can also visit a personal page displaying only their own missions or maintenances.
 Another feature of the application is the possibility, for each employee, to post requests for holidays. Administrators, only, can see all the requests made by the employees on a dedicated page and modify their status so as to either accept or refuse them.
 In the end, this application is a means of organizing the tasks of the company and displaying them in a simple, user-friendly and efficient way. The holiday requests are also greatly simplified as they can be completed in just a few clicks.
-This repository contains the backend part of the application.
+
+This repository contains the front part of the application.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
