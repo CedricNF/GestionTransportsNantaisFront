@@ -18,7 +18,7 @@ XAMPP - v3.4.2 or any other database management system
 
 ### Setting up
 To download the project, clone it from github using the next command:
-$ git clone https://github.com/thomasmarchal29/GestionTransportsNantais.git
+$ git clone https://github.com/CedricNF/GestionTransportsNantaisFront.git
 
 ## Running the tests
 Navigate to the project directory and use the next command:
